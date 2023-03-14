@@ -1,5 +1,5 @@
-#Don't remove This Line From Here. @Dev_Arora_0981 | @DevArora0981
-#Github :- Devarora0981 | Devarora0987
+#Don't remove This Line From Here.  | 
+#Github :- JatinDalal875 | JatinDalal875
 import requests
 import random
 import os
@@ -15,8 +15,8 @@ from pymongo import MongoClient
 from motor.motor_asyncio import AsyncIOMotorClient as MongoCli
 
 
-API_ID = os.environ.get(("API_ID","24315255") 
-API_HASH = os.environ.get("API_HASH","129b292dc07c43347e3255c09e0a3e49") 
+API_ID = os.environ.get(("API_ID","24633498") 
+API_HASH = os.environ.get("API_HASH","592530e0166f0f94b874996622600353") 
 BOT_TOKEN = os.environ.get("BOT_TOKEN","6137836765:AAEzCa9Swzl3Rk44R7Al3A3o6etJjuLpYOA") 
 MONGO_URL = os.environ.get("MONGO_URL","mongodb+srv://Musicbot58:93529352@cluster0.n6wscri.mongodb.net/?retryWrites=true&w=majority")
 BOT_USERNAME = os.environ.get("Khushi_chat_bot") 
