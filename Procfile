@@ -1,1 +1,1 @@
-chatbot: python3 main.py
+Vick: python3 main.py
